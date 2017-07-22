@@ -1,2 +1,3 @@
 # PID_Lego
-Apply pid algorithm to lego ev3 robot
+
+pid algorithm applied to lego robot
